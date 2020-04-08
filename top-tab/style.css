@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://source.unsplash.com/3840x2160/?nature");
+    background-color: #01abaa;
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Jura', sans-serif;
+    color: whitesmoke;
+    text-shadow: .75px .75px slategrey;
+}
